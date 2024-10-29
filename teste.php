@@ -1,8 +1,4 @@
 <?php
-require_once "./models/cliente.php";
+require './inicial/init.php';
 
-$cliente = new Cliente();
-$clientes = $cliente->listar();
-
-var_dump($clientes);
-
+$redirecionador->redirecionar('index', 0);
