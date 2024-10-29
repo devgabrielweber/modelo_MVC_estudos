@@ -11,4 +11,4 @@ Esse é um projeto em desenvolvimento contínuo, portanto não o considere final
 - .env: Adicionalmente, a biblioteca vlucas/phpdotenv foi adicionada ao projeto, afim de facilitar o carregamento de variáveis de ambiente.
 ### O que estou desenvolvendo agora?
 - Controller: nesse momento, estou estudando e desenvolvendo a melhor maneira de implementar um controller no sistema. Isso está envolvendo o desenvolvimento de um sistema de rotas e redirecionamento (mais informações no tópico abaixo).
-- Redirecionamento e rotas: estou avaliando qual a melhor maneira de implementar um sistema de rotas. Até agora, utilizar a função ```header()``` e a variável global ```$__session``` para controlar o redirecionamento de páginas parece o ideal.
+- Redirecionamento e rotas: implementei uma funcionalidade de redirecionamento básico, através da classe ```Redirecionador```, que tem as funções ```set_rota()``` e ```redirecionar()```. Para fazer o redirecionamento, utilizo a função ```header()``` do php. Adicionalmente, no arquivo ```/rotas/rotas.php```, é possível criar as rotas do sistema.
