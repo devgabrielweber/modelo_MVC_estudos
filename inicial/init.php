@@ -1,6 +1,5 @@
 <?php
-require_once "./rotas/redirecionador.php";
-//importa a classe dotenv
+require_once './rotas/redirecionador.php';//importa a classe dotenv
 use Dotenv\Dotenv;
 
 //importa o autoload.php
@@ -12,4 +11,3 @@ $dotenv->load();
 
 $redirecionador = new Redirecionador();
 
-require_once './rotas/rotas.php';
