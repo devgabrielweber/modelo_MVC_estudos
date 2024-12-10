@@ -13,7 +13,7 @@ class Cliente
 
     public function listar()
     {
-        $listagem = $this->conn->query("SELECT * FROM cliente");
+        $listagem = $this->conn->query("SELECT * FROM cliente ORDER BY id");
         return ($listagem->fetch_all());
     }
 }

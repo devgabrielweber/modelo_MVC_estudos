@@ -8,6 +8,9 @@ $clientes = $clienteController->listar();
 <table>
     <tr>
         <td>
+            ID
+        </td>
+        <td>
             Nome
         </td>
         <td>
@@ -16,7 +19,11 @@ $clientes = $clienteController->listar();
     </tr>
     <?php
     foreach ($clientes as $cliente) {
-        echo '<tr><td>' . $cliente[0] . '</td>' . '<td>' . $cliente[1] . '</td></tr>';
+        echo '<tr>
+            <td>' . $cliente[0] . '</td>
+            <td>' . $cliente[1] . '</td>
+            <td>' . $cliente[2] . '</td>
+            </tr>';
     }
     ?>
 </table>
