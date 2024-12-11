@@ -1,6 +1,5 @@
 <?php
-require_once $_ENV["PROJECT_ROOT"] . '/inicial/init.php';
-
-
+require_once './inicial/init.php';
+var_dump($_ENV["TESTE"]);
 
 ?>

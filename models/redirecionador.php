@@ -12,7 +12,15 @@ class Redirecionador
     }
     public function redirecionar($nome_rota, $dados)
     {
+        foreach ($dados as $key => $dado) {
+            $_SESSION[$key] = $dado;
+        }
         $rota = $this->rotas[$nome_rota];
         return header('Location: ' . $rota, true, 303);
+    }
+
+    public function get_rotas()
+    {
+        return $this->rotas;
     }
 }

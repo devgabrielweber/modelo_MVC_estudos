@@ -1,6 +1,8 @@
 <?php
 require $_ENV['PROJECT_ROOT'] . '/inicial/init.php';
+$redirecionadorController = new RedirecionadorController();
 
-$redirecionador->set_rota("/teste.php", "teste");
-$redirecionador->set_rota('/index.php', 'index');
-$redirecionador->set_rota('/views/cliente.php', 'clientes');
+$redirecionadorController->set_rotas("/teste.php", "teste");
+$redirecionadorController->set_rotas('/index.php', 'index');
+$redirecionadorController->set_rotas('/api/v1/handler.php', 'api');
+$redirecionadorController->set_rotas('/views/cliente.php', 'clientes');
