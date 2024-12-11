@@ -25,10 +25,9 @@ class RedirecionadorController
                 break;
             default:
                 $_SESSION['erro'] = "Método de rotas inexistente! métodos disponíveis: view, api e index";
-                $erro = new Exception("Método de rotas inexistente! métodos disponíveis: view, api e index");
+                $erro = new Exception("Método de rotas inexistente! Métodos disponíveis: view, api e index");
                 throw $erro;
         }
-
     }
 
     public function redirecionar($nome_rota, $dados)

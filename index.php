@@ -1,7 +1,7 @@
 <?php
 
 if ($_SERVER["REQUEST_URI"] == "/api/v1") {
-    $dados = ["uri" => $_SERVER["REQUEST_URI"]];
+    $dados = ["uri" => $_SERVER["REQUEST_URI"], "api" => true];
     $redirecionadorController->redirecionar('api', $dados);
 }
 
@@ -17,5 +17,3 @@ require_once "./models/database.php";
 if (isset($_SESSION['erro'])) {
     echo $_SESSION['erro'];
 }
-
-var_dump($_SERVER);
