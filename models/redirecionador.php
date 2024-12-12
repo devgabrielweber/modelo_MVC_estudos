@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . "../inicial/init.php";
+require_once __DIR__ . "/../inicial/init.php";
 require_once $_ENV["PROJECT_ROOT"] . "/api/v1/api_handler.php";
 class Redirecionador
 {

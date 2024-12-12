@@ -1,6 +1,5 @@
 <?php
 require $_ENV['PROJECT_ROOT'] . '/inicial/init.php';
-$redirecionadorController = new RedirecionadorController();
 
 $redirecionadorController->set_rotas("/teste.php", "teste");
 $redirecionadorController->set_rotas('/index.php', 'index');

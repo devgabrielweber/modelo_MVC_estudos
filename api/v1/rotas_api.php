@@ -1,5 +1,4 @@
 <?php
+require __DIR__ . "/../../inicial/init.php";
 
-require_once "../../inicial/init.php";
-
-$redirecionadorController->set_rotas("/cliente/listar", "clientes.listar", "api");
+$redirecionadorController->set_rotas("/cliente/listar.php", 'cliente.listar', 'api');
