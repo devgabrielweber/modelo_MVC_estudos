@@ -1,5 +1,6 @@
 <?php
-include './../models/cliente.php';
+require_once __DIR__ . '/../inicial/init.php';
+require_once $_ENV["PROJECT_ROOT"] . '/models/cliente.php';
 
 class clienteController
 {

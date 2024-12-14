@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . "../../inicial/init.php";
-require_once $_ENV["PROJECT_ROOT"] . "/models/redirecionador.php";
+require $_ENV["PROJECT_ROOT"] . "/models/redirecionador.php";
 class RedirecionadorController
 {
     private $rotas = [];
@@ -32,9 +32,16 @@ class RedirecionadorController
 
     public function redirecionar($nome_rota, $dados)
     {
+
+        file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_rotas.txt', "\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: " . json_encode($this->redirecionador->get_rotas()), FILE_APPEND);
+
+        file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\n\n\nchegou no redirecionadorController rota redirecionar", FILE_APPEND, );
         if (isset($this->redirecionador->get_rotas()[$nome_rota])) {
+            file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\nAchou a rota", FILE_APPEND, );
             $this->redirecionador->redirecionar($nome_rota, $dados);
         } else {
+
+            file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\nnão achou a rota", FILE_APPEND, );
             $_SESSION["erro"] = "Tentando redirecionar para rota inexistente: " . $nome_rota;
         }
     }

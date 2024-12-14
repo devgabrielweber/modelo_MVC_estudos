@@ -11,7 +11,7 @@ $dotenv->load();
 require_once $_ENV['PROJECT_ROOT'] . '/controllers/redirecionadorController.php';
 $redirecionadorController = new RedirecionadorController();
 
-require_once $_ENV['PROJECT_ROOT'] . '/rotas/rotas.php';
+require $_ENV['PROJECT_ROOT'] . '/rotas/rotas.php';
 
 require_once $_ENV['PROJECT_ROOT'] . "/index.php";
 

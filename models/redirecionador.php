@@ -14,9 +14,7 @@ class Redirecionador
     }
     public function redirecionar($nome_rota, $dados)
     {
-        if ($dados["API"] == true) {
-
-        }
+        file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\nchegou no redirecionador (model) -> redirecionar", FILE_APPEND, );
         foreach ($dados as $key => $dado) {
             $_SESSION[$key] = $dado;
         }

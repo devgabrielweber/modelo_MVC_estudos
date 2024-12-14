@@ -1,0 +1,99 @@
+\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: Array\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: Array\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: Array\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: \n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: \n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: \n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: \n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: \n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
