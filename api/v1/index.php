@@ -12,6 +12,6 @@ $request = [
     "metodo" => $_SERVER['REQUEST_METHOD']
 ];
 
-$apiHandler = new apiController();
+//$apiHandler = new apiController();
 
 ?>

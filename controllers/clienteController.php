@@ -1,7 +1,6 @@
 <?php
 require_once __DIR__ . '/../inicial/init.php';
 require_once $_ENV["PROJECT_ROOT"] . '/models/cliente.php';
-
 class clienteController
 {
     private $cliente;
@@ -13,6 +12,15 @@ class clienteController
     public function listar()
     {
         $dados = $this->cliente->listar();
-        return $dados;
+        $_SESSION["dados"] = $dados;
+        return require $_ENV["PROJECT_ROOT"] . "/views/cliente.php";
+    }
+
+    public function cadastrar()
+    {
+        var_dump($_POST);
+        // foreach ($dados as $dado => $valor) {
+
+        // }
     }
 }

@@ -6,10 +6,9 @@ header("Content-Type: text/html, charset=UTF-8");
 
 define('ROOT_PROJETO', __DIR__);
 require_once ROOT_PROJETO . "/inicial/init.php";
-require_once $_ENV["PROJECT_ROOT"] . "/controllers/redirecionadorController.php";
 
 if (isset($_SESSION['erro'])) {
     echo $_SESSION['erro'];
 }
 
-$redirecionadorController->redirecionar('clientes', 0);
+$redirecionadorController->redirecionar('clientes.listar', 0);

@@ -12,6 +12,3 @@ require_once $_ENV['PROJECT_ROOT'] . '/controllers/redirecionadorController.php'
 $redirecionadorController = new RedirecionadorController();
 
 require $_ENV['PROJECT_ROOT'] . '/rotas/rotas.php';
-
-require_once $_ENV['PROJECT_ROOT'] . "/index.php";
-

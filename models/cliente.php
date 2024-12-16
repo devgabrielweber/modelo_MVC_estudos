@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . "/database.php";
+require_once __DIR__ . "/database.php";
 
 class Cliente
 {
@@ -15,5 +15,11 @@ class Cliente
     {
         $listagem = $this->conn->query("SELECT * FROM cliente ORDER BY id");
         return ($listagem->fetch_all());
+    }
+
+    public function cadastrar($dados)
+    {
+        $query = "INSERT INTO clientes(nome,cpf) VALUES (" . $dados['nome'] . "," . $dados['cpf'];
+        $msg = $this->conn->query($query);
     }
 }

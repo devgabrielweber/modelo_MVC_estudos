@@ -97,3 +97,109 @@ redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"test
 redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
 
 redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":"\/views\/teste.php","index":"\/views\/index.php","api":"\/api\/v1\/api\/v1\/handler.php","clientes":"\/views\/cliente.php"}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":{"caminho":"\/views\/teste.php","metodo":"GET"},"index":{"caminho":"\/views\/index.php","metodo":"GET"},"api":{"caminho":"\/api\/v1\/api\/v1\/handler.php","metodo":"GET"},"clientes":{"caminho":"\/views\/cliente.php","metodo":"GET"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"teste":{"caminho":"\/views\/teste.php","metodo":"GET"},"index":{"caminho":"\/views\/index.php","metodo":"GET"},"api":{"caminho":"\/api\/v1\/api\/v1\/handler.php","metodo":"GET"},"clientes":{"caminho":"\/views\/cliente.php","metodo":"GET"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"\/viewsclientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"\/viewsclientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"\/viewsclientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"\/viewsclientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"\/viewsclientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: []
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: []
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: []
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes":{"request_metodo":"GET","controller@metodo":"clienteController@listar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes.listar":{"request_metodo":"GET","controller@metodo":"clienteController@listar"},"cliente.cadastrar":{"request_metodo":"GET","controller@metodo":"clienteContrller@cadastrar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes.listar":{"request_metodo":"GET","controller@metodo":"clienteController@listar"},"cliente.cadastrar":{"request_metodo":"GET","controller@metodo":"clienteController@cadastrar"}}
+
+redirecionadorController -> redirecionar() chamado! As rotas salvas são: {"clientes.listar":{"request_metodo":"GET","controller@metodo":"clienteController@listar"},"cliente.cadastrar":{"request_metodo":"GET","controller@metodo":"clienteController@cadastrar"}}

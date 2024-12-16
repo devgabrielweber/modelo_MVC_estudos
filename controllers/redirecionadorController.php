@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . "../../inicial/init.php";
-require $_ENV["PROJECT_ROOT"] . "/models/redirecionador.php";
+require_once $_ENV["PROJECT_ROOT"] . "/models/redirecionador.php";
 class RedirecionadorController
 {
     private $rotas = [];
@@ -11,37 +11,39 @@ class RedirecionadorController
         $this->redirecionador = new Redirecionador();
     }
 
-    public function set_rotas($view_destino, $nome, $tipo = "view")
+    public function set_rotas($nome, $tipo, $controller_metodo, $request_metodo)
     {
-        switch ($tipo) {
-            case 'view':
-                $this->redirecionador->set_rota("/views" . $view_destino, $nome);
-                break;
-            case 'index':
-                $this->redirecionador->set_rota($view_destino, $nome);
-                break;
-            case 'api':
-                $this->redirecionador->set_rota("/api/v1" . $view_destino, $nome);
-                break;
-            default:
-                $_SESSION['erro'] = "Método de rotas inexistente! métodos disponíveis: view, api e index";
-                $erro = new Exception("Método de rotas inexistente! Métodos disponíveis: view, api e index");
-                throw $erro;
-        }
+        $this->redirecionador->set_rota($nome, $request_metodo, $controller_metodo);
+
     }
 
-    public function redirecionar($nome_rota, $dados)
+    public function redirecionar($nome_rota, $dados, $tipo_conexao = "view")
     {
-
+        //######################### DEBUG #####################################
         file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_rotas.txt', "\n\nredirecionadorController -> redirecionar() chamado! As rotas salvas são: " . json_encode($this->redirecionador->get_rotas()), FILE_APPEND);
-
         file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\n\n\nchegou no redirecionadorController rota redirecionar", FILE_APPEND, );
-        if (isset($this->redirecionador->get_rotas()[$nome_rota])) {
-            file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\nAchou a rota", FILE_APPEND, );
-            $this->redirecionador->redirecionar($nome_rota, $dados);
-        } else {
+        //######################### DEBUG #####################################
 
+        //se a rota existir:
+        if (isset($this->redirecionador->get_rotas()[$nome_rota])) {
+            //debug
+            file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\nAchou a rota", FILE_APPEND, );
+            //debug
+
+            //verifica se é api, se for, echo o retorno
+            switch ($tipo_conexao) {
+                case 'api':
+                    $retorno = $this->redirecionador->redirecionar($nome_rota, $dados, $tipo_conexao);
+                    echo $retorno;
+                    break;
+                default:
+                    $this->redirecionador->redirecionar($nome_rota, $dados, $tipo_conexao);
+            }
+
+        } else {
+            //debug
             file_put_contents($_ENV["PROJECT_ROOT"] . '/saida_log.txt', "\nnão achou a rota", FILE_APPEND, );
+            //debug
             $_SESSION["erro"] = "Tentando redirecionar para rota inexistente: " . $nome_rota;
         }
     }

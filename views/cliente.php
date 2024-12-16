@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . "/../inicial/init.php";
 require_once $_ENV["PROJECT_ROOT"] . "/controllers/clienteController.php";
-
-$clienteController = new clienteController();
-$clientes = $clienteController->listar();
+?>
+<?php
+$dados = $_SESSION["dados"];
 ?>
 <script>
     var pressionado = false;
@@ -31,7 +31,7 @@ $clientes = $clienteController->listar();
         </td>
     </tr>
     <?php
-    foreach ($clientes as $cliente) {
+    foreach ($dados as $cliente) {
         echo '<tr>
             <td>' . $cliente[0] . '</td>
             <td>' . $cliente[1] . '</td>
