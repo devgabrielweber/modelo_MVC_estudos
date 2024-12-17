@@ -19,7 +19,14 @@ class Cliente
 
     public function cadastrar($dados)
     {
-        $query = "INSERT INTO clientes(nome,cpf) VALUES (" . $dados['nome'] . "," . $dados['cpf'];
-        $msg = $this->conn->query($query);
+        try {
+            $query = "INSERT INTO cliente(nome,cpf) VALUES ('" . $dados['nome'] . "'," . $dados['cpf'] . ");";
+            file_put_contents($_ENV["PROJECT_ROOT"] . "/saida_log.txt", "\n A query é:" . $query, FILE_APPEND);
+            $msg = $this->conn->query($query);
+
+        } catch (\Throwable $th) {
+            $_SESSION['erro'] = $th;
+            throw $th;
+        }
     }
 }

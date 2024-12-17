@@ -3,8 +3,10 @@ require_once __DIR__ . "/../inicial/init.php";
 require_once $_ENV["PROJECT_ROOT"] . "/controllers/clienteController.php";
 ?>
 <?php
-if (isset($_POST)) {
+if (isset($_POST['nome'])) {
     var_dump($_POST);
+    $clienteController = new clienteController();
+    $clienteController->cadastrar($_POST);
 }
 ?>
 <html>

@@ -6,15 +6,13 @@ require_once $_ENV["PROJECT_ROOT"] . "/controllers/clienteController.php";
 $dados = $_SESSION["dados"];
 ?>
 <script>
-    var pressionado = false;
-    function achou() {
-        if (pressionado == false) {
-            document.getElementById("achou").innerHTML = "Achou!";
-            pressionado = true
-        } else {
-            document.getElementById("achou").innerHTML = "";
-            pressionado = false
-        }
+    function cadastrar() {
+        request = new XMLHttpRequest();
+        request.onreadystatechange = function () {
+            alert(request.responseText)
+        };
+        request.open("GET", "redirecionadorHandler.php");
+        request.send();
     }
 </script>
 <html>
@@ -40,7 +38,8 @@ $dados = $_SESSION["dados"];
     }
     ?>
 </table>
-<button onclick="achou()">Achar?</button>
-<span id="achou"></span>
+
+<button onclick="cadastrar()">Cadastrar Cliente</button>
+<span id="clicou"></span>
 
 </html>

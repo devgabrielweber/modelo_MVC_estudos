@@ -59,7 +59,8 @@ class Redirecionador
             }
         } else {
             //se não for api, chama o método
-            $controller->$metodo($dados);
+            $retorno = $controller->$metodo($dados);
+            return $retorno;
         }
 
 

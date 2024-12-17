@@ -37,7 +37,8 @@ class RedirecionadorController
                     echo $retorno;
                     break;
                 default:
-                    $this->redirecionador->redirecionar($nome_rota, $dados, $tipo_conexao);
+                    $retorno = $this->redirecionador->redirecionar($nome_rota, $dados, $tipo_conexao);
+                    return $retorno;
             }
 
         } else {

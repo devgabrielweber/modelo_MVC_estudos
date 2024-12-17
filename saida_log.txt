@@ -1192,3 +1192,1322 @@ chegou no redirecionador (model) -> redirecionar
 tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
 
 tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+
+INSERT INTO clientes(nome,cpf) VALUES (1,2
+
+tentou conectar com o banco
+
+INSERT INTO clientes(nome,cpf) VALUES (10,123);
+
+tentou conectar com o banco
+ A query é:INSERT INTO clientes(nome,cpf) VALUES (Bruno,987654321);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES (Bruno,987654321);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Bruno',987654321);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Gabriel Dos Reis',112233445566);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('',);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('',);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('',);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('',);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('',);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Gabriel dos reis',11111111111);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Gabriel dos reis',11111111111);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Marcelo Gameplays',99988877766);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('',);
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php

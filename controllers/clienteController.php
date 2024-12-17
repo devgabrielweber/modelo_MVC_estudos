@@ -16,11 +16,12 @@ class clienteController
         return require $_ENV["PROJECT_ROOT"] . "/views/cliente.php";
     }
 
-    public function cadastrar()
+    public function cadastrar($dados = null)
     {
-        var_dump($_POST);
-        // foreach ($dados as $dado => $valor) {
+        if ($dados != null) {
+            $this->cliente->cadastrar($dados);
+        }
 
-        // }
+        return $_ENV["PROJECT_ROOT"] . '/views/cadastrar_cliente.php';
     }
 }
