@@ -1173,3 +1173,22 @@ chegou no redirecionador (model) -> redirecionar
 tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
 
 tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
+erro ao conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteController
+
+tentou conectar com o banco
