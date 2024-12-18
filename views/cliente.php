@@ -1,6 +1,10 @@
 <?php
 require_once __DIR__ . "/../inicial/init.php";
 require_once $_ENV["PROJECT_ROOT"] . "/controllers/clienteController.php";
+if (isset($dados) != true) {
+    $redirecionadorController->redirecionar('cliente.listar', 0, 'view');
+    die();
+}
 ?>
 <html>
 <table>

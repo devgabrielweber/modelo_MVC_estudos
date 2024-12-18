@@ -9,10 +9,13 @@ class clienteController
     {
         $this->cliente = new Cliente();
     }
-    public function listar()
+    public function listar($tipo_conexao)
     {
         $dados = $this->cliente->listar();
-        $_SESSION["dados"] = $dados;
+        if ($tipo_conexao == 'api') {
+            $_SESSION["dados"] = $dados;
+            return json_encode($dados);
+        }
         return require $_ENV["PROJECT_ROOT"] . "/views/cliente.php";
     }
 
