@@ -2511,3 +2511,1113 @@ tentou acessar/home/ixcsoft/dev_estudos/modelo_MVC_estudos/controllers\/clienteC
 tentou conectar com o banco
 
 retorno no redirecionadorHandler: /home/ixcsoft/dev_estudos/modelo_MVC_estudos/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+erro ao conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: /home/gabrielweber/dev/teste_basico/views/cadastrar_cliente.php
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+retorno no redirecionadorHandler: 
+
+chegou no redirecionadorHandler
+
+retorno no redirecionadorHandler: 
+
+
+chegou no redirecionadorController rota redirecionar
+não achou a rota
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('asjdak',123123123);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('asjdak',123123123);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('asdasdasd',123123123);
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('asjdak',123123123);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('adasd',123123);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Testando agora vai da silva',987654321);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('Testando agora vai da silva',987654321);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('gabriel sem duplicata',123123123);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('gabriel sem duplicata',123123123);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('asdasdad',123123123123);
+
+
+chegou no redirecionadorController rota redirecionar
+Achou a rota
+chegou no redirecionador (model) -> redirecionar
+
+tentou acessar/home/gabrielweber/dev/teste_basico/controllers\/clienteController
+
+tentou conectar com o banco
+
+tentou conectar com o banco
+ A query é:INSERT INTO cliente(nome,cpf) VALUES ('asdasdad',123123123123);

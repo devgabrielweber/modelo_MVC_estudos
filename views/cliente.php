@@ -2,19 +2,6 @@
 require_once __DIR__ . "/../inicial/init.php";
 require_once $_ENV["PROJECT_ROOT"] . "/controllers/clienteController.php";
 ?>
-<?php
-$dados = $_SESSION["dados"];
-?>
-<script>
-    function cadastrar() {
-        request = new XMLHttpRequest();
-        request.onreadystatechange = function () {
-            alert(request.responseText)
-        };
-        request.open("GET", "redirecionadorHandler.php");
-        request.send();
-    }
-</script>
 <html>
 <table>
     <tr>
@@ -39,7 +26,7 @@ $dados = $_SESSION["dados"];
     ?>
 </table>
 
-<button onclick="cadastrar()">Cadastrar Cliente</button>
+<button onclick="redirecionar('cliente.cadastrar')">Cadastrar Cliente</button>
 <span id="clicou"></span>
 
 </html>

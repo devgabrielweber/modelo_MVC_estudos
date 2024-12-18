@@ -10,12 +10,13 @@ if (isset($_POST['nome'])) {
 }
 ?>
 <html>
-<form method="POST" action="cadastrar_cliente.php">
+<form method="POST">
     <label>Nome: </label>
     <input type="text" name="nome">
     <label>CPF: </label>
     <input type="text" name="cpf">
-    <input type="submit" value="Enviar">
+    <input type="hidden" name="rota" value="cliente.cadastrar">
+    <input type="submit">
 </form>
 
 </html>

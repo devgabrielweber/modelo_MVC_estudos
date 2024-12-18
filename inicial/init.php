@@ -1,3 +1,29 @@
+<script>
+    function redirecionar(rota, dados) {
+        form = document.createElement('form')
+        form.setAttribute('method', 'POST')
+        form.setAttribute('action', '../index.php')
+        variavel = document.createElement('input')
+        variavel.setAttribute('name', "rota")
+        variavel.setAttribute("value", rota)
+        variavel.setAttribute('type', 'hidden')
+        form.appendChild(variavel);
+
+        for (const key in dados) {
+            if (dados.hasOwnProperty(key)) {
+                const input = document.createElement('input');
+                input.type = 'hidden';
+                input.name = key;
+                input.value = data[key];
+                form.appendChild(input);
+            }
+        }
+
+        document.body.appendChild(form);
+        form.submit();
+    }
+</script>
+
 <?php
 use Dotenv\Dotenv;
 

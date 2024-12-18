@@ -11,4 +11,8 @@ if (isset($_SESSION['erro'])) {
     echo $_SESSION['erro'];
 }
 
-$redirecionadorController->redirecionar('clientes.listar', 0);
+if (isset($_POST['rota'])) {
+    require $redirecionadorController->redirecionar($_POST['rota'], 0, 'view');
+} else {
+    require $redirecionadorController->redirecionar('cliente.listar', 0, 'view');
+}
